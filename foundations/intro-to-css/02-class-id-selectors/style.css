@@ -3,7 +3,7 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.odd.big {
+.big {
     font-size: 24px;
 }
 
@@ -14,6 +14,5 @@
 
 #number_4 {
     background-color: rgb(129, 245, 129);
-    font-size: 24px;
     font-weight: 700;
 }
